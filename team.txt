@@ -1,3 +1,4 @@
 Leader: Roni Wijaya
+assistant: -
 staff: Amanda Umy Kulsum
 done.
